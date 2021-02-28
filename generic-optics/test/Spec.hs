@@ -1,7 +1,6 @@
-{-# LANGUAGE LambdaCase #-}
 {-# OPTIONS_GHC -dsuppress-all #-}
 
-{-# OPTIONS_GHC -funfolding-use-threshold=150 #-}
+{-# OPTIONS_GHC -funfolding-use-threshold=200 #-}
 
 {-# LANGUAGE AllowAmbiguousTypes             #-}
 {-# LANGUAGE CPP                             #-}

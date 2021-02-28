@@ -1,7 +1,6 @@
-{-# OPTIONS_GHC -O -fplugin Test.Inspection.Plugin #-}
 {-# OPTIONS_GHC -dsuppress-all #-}
 
-{-# OPTIONS_GHC -funfolding-use-threshold=150 #-}
+{-# OPTIONS_GHC -funfolding-use-threshold=160 #-}
 
 {-# LANGUAGE AllowAmbiguousTypes             #-}
 {-# LANGUAGE DataKinds                       #-}
